@@ -1,4 +1,9 @@
+:root{
+    --cor-de-fundo: #e96cce75;
+--cor-de-texto: #8b4811b2;
+}
+
 body {
-    background-color: rgb(253, 253, 80);
-    color: #9c2828;
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
 }
