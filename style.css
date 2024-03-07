@@ -19,8 +19,18 @@ header{
     display: flex;
     justify-content:space-around;
     align-items: center;
+    
 }
 
 .logo{
     width: 10%;
+}
+section{
+    display:flex
+    background-color: white;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    
+
 }
