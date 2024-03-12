@@ -14,16 +14,13 @@ body {
 }
 
 h1{
-    color: var(--cor-de-texto);
-    
-    
+    color: var(--cor-de-texto);    
 }
 
 header{
     display: flex;
     justify-content:space-around;
-    align-items: center;
-    
+    align-items: center;   
 }
 
 .logo{
