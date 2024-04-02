@@ -43,10 +43,10 @@ img{
 }
  .equipe{
     display: grid;
-    grid-template-columns: 44% 44%;
+    grid-template-columns: 33% 33%;
 
  }
 
  .foto-equipe {
-    width: 80px;
+    width: 120px;
  }
