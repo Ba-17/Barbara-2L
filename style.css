@@ -44,3 +44,8 @@ section{
 img{
     width: 20%;
 }
+ .equipe{
+    display: grid;
+    grid-template-columns: 33% 33%;
+ }
+ 
