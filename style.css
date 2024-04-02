@@ -36,9 +36,6 @@ section{
     margin: 20px;
     padding: 20px;
     background-color: white;
-
-    
-
 }
 
 img{
@@ -47,5 +44,7 @@ img{
  .equipe{
     display: grid;
     grid-template-columns: 33% 33%;
+
  }
+
  
