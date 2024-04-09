@@ -67,4 +67,5 @@ img{
  }
  header a{
     color: rgba(134, 88, 88, 0.705);
+    text-decoration: none;
  }
