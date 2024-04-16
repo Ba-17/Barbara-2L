@@ -20,6 +20,7 @@ h1{
     color: var(--cor-de-texto);    
 }
 
+
 header{
     display: flex;
     justify-content:space-around;
@@ -34,7 +35,7 @@ header{
     width: 10%;
 }
 section{
-    text-align: center;
+    
     display: flex;
     color: rgb(0, 0, 0);
     margin: 20px;
