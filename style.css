@@ -6,6 +6,7 @@
 :root{
     --cor-de-fundo: #e96cce75;
 --cor-de-texto: #8b4811b2;
+--cor-de-subtítulo: #7e3409;  
 }
 
 body {
@@ -20,7 +21,7 @@ h1{
     color: var(--cor-de-texto);    
 }
 h3{
-    color: var rgb(143, 80, 20)
+    color: 
 }
 
 
