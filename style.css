@@ -25,6 +25,9 @@ h2{
 h3{
     color:rgb(241, 99, 123) ;
 }
+p{
+    color: black;
+}
 
 header{
     display: flex;
