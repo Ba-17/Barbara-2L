@@ -35,7 +35,7 @@ header{
     width: 10%;
 }
 section{
-    align-items: flex-end;
+    align-items:self-end;
     display: flex;
     color: rgb(0, 0, 0);
     margin: 20px;
